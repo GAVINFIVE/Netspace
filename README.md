@@ -87,3 +87,4 @@ DNS 解析、TCP 握手、TLS 证书、逐跳延迟 —— 每一段单独计时
 ## 架构
 
 整个应用是自包含的：**Node 运行时、llama.cpp、全部依赖都以 `.so` 形式打包进 APK**，从 `nativeLibraryDir` 执行。
+有一切问题请致信3998549576@qq.com
